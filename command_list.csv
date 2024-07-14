@@ -1,0 +1,308 @@
+    1  /Users/svetlana/Library/Application\ Support/Steam/steamapps/common/tModLoader/dotnet/6.0.14/dotnet ; exit;
+    2  /Users/svetlana/Library/Application\ Support/Steam/steamapps/common/tModLoader/dotnet/6.0.14/dotnet ; exit;
+    3  /Users/svetlana/Library/Application\ Support/Steam/steamapps/common/tModLoader/dotnet/6.0.14/dotnet ; exit;
+    4  /Users/svetlana/Library/Application\ Support/Steam/steamapps/common/tModLoader/dotnet/6.0.14/dotnet ; exit;
+    5  /Users/svetlana/Library/Application\ Support/Steam/steamapps/common/tModLoader/dotnet/6.0.14/dotnet ; exit;
+    6  /Users/svetlana/Library/Application\ Support/Steam/steamapps/common/tModLoader/dotnet/6.0.14/dotnet ; exit;
+    7  help cd
+    8  man cd
+    9  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   10  sudo visudo
+   11  sudo visudo
+   12  man ls
+   13  ls
+   14  cd desktop
+   15  ls
+   16  cd ..
+   17  ls
+   18  cd ~
+   19  ls
+   20  cd/
+   21  cd /
+   22  ls
+   23  pwd
+   24  cd desktop
+   25  ls
+   26  pwd
+   27  ls 
+   28  cd ..
+   29  ls
+   30  cd desktop
+   31  ls
+   32  pwd
+   33  cd data
+   34  ls
+   35  cd ..
+   36  mkdir lesson
+   37  ls
+   38  cd deskrop
+   39  cd desktop
+   40  ls
+   41  cd library
+   42  ls
+   43  cd ..
+   44  ls
+   45  cd users
+   46  ls
+   47  cd ..
+   48  cd library
+   49  ls
+   50  mkdir lesson
+   51  cd Documentation
+   52  mkdir lesson 
+   53  cd
+   54  cd ~
+   55  ls
+   56  cd Documents
+   57  ls
+   58  mkdir lesson
+   59  ls
+   60  cd ..
+   61  ls
+   62  cd desktop
+   63  mkdir lesson
+   64  mkdir "lesson 123"
+   65  ls 
+   66  touch empty.txt
+   67  clear
+   68  touch empty1.xls
+   69  ls
+   70  copy empty.txt
+   71  cp empty.txt
+   72  ls
+   73  vin empty.txt
+   74  vim empty.txt
+   75  vim empty.txt
+   76  vim empty.txt
+   77  cd
+   78  ls
+   79  cd desktop
+   80  ls
+   81  touch 1empty.txt
+   82  ls
+   83  pwd
+   84  cp /Users/svetlana/desktop/1empty.txt /Users/svetlana/downloads/
+   85  mv /Users/svetlana/downloads/1empty.txt /Users/svetlana/desktop/
+   86  ls
+   87  rm 1empty.txt
+   88  ping google.com
+   89   df -h
+   90  clear
+   91  ping google.com
+   92  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   93  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   94  $ brew install wget
+   95   brew install wget
+   96  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+   97  $ brew install git
+   98   brew install git
+   99  $ brew install git
+  100  $ brew install git
+  101  $ brew install git
+  102  $ sudo port install git
+  103  $ brew install git
+  104  $ brew install git\n\n
+  105  $ brew install git
+  106  $ brew install git
+  107  brew install git
+  108  brew install --cask google-chrome
+  109  install --cask google-chrome
+  110  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  111  $ brew install git
+  112  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  113  echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/svetlana/.zprofile\n    eval "$(/opt/homebrew/bin/brew shellenv
+  114  $(/opt/homebrew/bin/brew shellenv)
+  115  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  116  eval "$(/opt/homebrew/bin/brew shellenv)"
+  117  eval "$(/opt/homebrew/bin/brew shellenv)"
+  118  brew help
+  119  $ brew install git
+  120  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  121  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  122  echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/svetlana/.zprofile
+  123  (echo; echo 'eval "$(/opt/homebrew/bin/brew shellenv)"') >> /Users/svetlana/.zprofile
+  124  eval "$(/opt/homebrew/bin/brew shellenv)"
+  125  brew help
+  126  $ brew install git
+  127  clear
+  128  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"\n
+  129  brew install git
+  130  brew cleanup git
+  131  man git
+  132  /opt/homebrew/share/zsh/site-functions
+  133  find git
+  134  brew install git
+  135  find git
+  136  open git
+  137  open github
+  138  find Cellar
+  139  cd /opt/homebrew
+  140  find git
+  141  find Cellar
+  142  ls
+  143  brew install git
+  144  ls
+  145  find Cellar
+  146  find git
+  147  git
+  148  cd ..
+  149  cd ../
+  150  -c && rm ~/.bash_history
+  151  clear
+  152  ls
+  153  cd desktop
+  154  cd library
+  155  ls
+  156  cd /users/
+  157  ls
+  158  cd svetlana
+  159  ls
+  160  cd desktop
+  161  ls
+  162  mkdir HomeWork_GOIT
+  163  ls
+  164  HWGOIT config --global user.name "Svitlana Klymenko"
+  165  git clone https://github.com/klymsvet/HW_10.git
+  166  ls
+  167  HWGOIT status
+  168  git clone ls
+  169  ls
+  170  cd Git
+  171  cd HomeWork  
+  172  cd HWGOIT
+  173  cd desktop
+  174  ls
+  175  cd HomeWork_GOIT
+  176  HomeWork_GOIT config --global user.name "Svitlana Klymenko"
+  177  ls
+  178  cd HW_10
+  179  touch test.txt
+  180  ls
+  181  cd HWGOIT
+  182  cd HWGOIT
+  183  cd ../
+  184  git clone https://github.com/klymsvet/HW_10.git
+  185  ls
+  186  git status
+  187  cd HW_10
+  188  git status
+  189  touch New.txt
+  190  git status
+  191  git add New.txt
+  192  git status
+  193  git commit -m "new file created"
+  194  git status
+  195  git log
+  196  git branch
+  197  git checkout -b new_branch
+  198  git branch
+  199  git checkout main
+  200  git checkout new_branch
+  201  nano new.txt
+  202  git status
+  203  git commit -m "new modify"
+  204  git status
+  205  git add new.txt
+  206  git status
+  207  git checkout main
+  208  git merge new_branch
+  209  git branch
+  210  git status
+  211  git commit 
+  212  clear
+  213  ls
+  214  ls
+  215  git clone https://github.com/klymsvet/HW_10.git
+  216  cd HW_10
+  217  touch text_ignore.txt
+  218  nanotext_ignore.txt
+  219  nano text_ignore.txt
+  220  git status
+  221  git add text_ignore.txt
+  222  git status
+  223  git commit -m "1 version"
+  224  git status
+  225  touch main_test.txt
+  226  git add main_test.txt
+  227  git commit -m "2 version"
+  228  git checkout -b develop
+  229  git checkout develop
+  230  touch develop_test.txt
+  231  git add develop_test.txt
+  232  git status
+  233  git commit -m "3 version"
+  234  git status
+  235  nano develop_test.txt
+  236  ls
+  237  cd HW_10
+  238  ls
+  239  nano develop_test.txt
+  240  git status
+  241   git restore develop_test.txt.save
+  242  git status
+  243  git add develop_test.txt
+  244  git commit -b "4 version"
+  245  git commit -m "4 version"
+  246  git status
+  247  git checkout main
+  248  git merge main
+  249  get log
+  250  git log
+  251  command_list.csv
+  252  history 0>command_list.csv
+  253  git add command_list.csv
+  254  git commit -m "5 version"
+  255  git push
+  256  git push
+  257  git push
+  258  git push
+  259  git push
+  260  git push origin main
+  261  git push origin main
+  262  git push
+  263  git push
+  264  git push
+  265  git push
+  266  git push --all
+  267  git push
+  268  git push
+  269  git clone https://github.com/klymsvet/HW_10.git
+  270  ls
+  271  cd HW_10
+  272  git touch text_ignore.txt
+  273  touch text_ignore.txt
+  274  nano gitignore
+  275  git status
+  276  git add
+  277  git add .
+  278  git status
+  279  git commit -m 
+  280  git commit -m "1.1"
+  281  touch main_test.txt
+  282  git add .
+  283  git commit
+  284  cd HW_10
+  285  git commit -m "1.2"
+  286  git branch develop
+  287  git checkout develop
+  288  touch develop_test.txt
+  289  git add .
+  290  git commit -m "2.1"
+  291  nano develop_test.txt
+  292  git status
+  293  git add .
+  294  git commit -m "2.2"
+  295  git status
+  296  git checkout main
+  297  git merge main
+  298  git log
+  299  git checkout develop
+  300  ls
+  301  git branch
+  302  git checkout main
+  303  git merge develop
+  304  git log
+  305  ды
+  306  ls
+  307  cd HW_10
+  308  ls
